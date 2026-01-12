@@ -1,0 +1,18 @@
+# --- PyInstaller ---
+build/
+dist/
+*.spec
+
+# --- Python Environment ---
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# --- macOS specific ---
+.DS_Store
+
+# --- OS specific ---
+*.exe
+*.app
